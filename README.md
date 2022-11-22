@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The dataset i used for this project is the Ford GoBike data set
+> The dataset I used for this project is the Ford GoBike data set
 
 ## Summary of Findings
 
